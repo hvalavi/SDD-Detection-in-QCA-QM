@@ -6,5 +6,8 @@
 	
 	Note: 
 		Please read README.md carefully for each tool.
-# QN Gate Repository
-	You can find our simulation results for QN gate here:
+# QI Gate Repository
+
+	You can find our simulation results for QI gate here:
+
+	https://github.com/hvalavi/SDD-Detection-in-QCA-QI
